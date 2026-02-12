@@ -1,4 +1,7 @@
 # basic-chatbot
+Task assigned by udemy
+course is 7 days ai dev
+
 first we imported re
 then our 
 responses = {
